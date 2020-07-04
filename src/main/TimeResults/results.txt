@@ -1,0 +1,8 @@
+Execution time of median filter for median-noisyimg.png : 285
+Execution time of parallel filter for parallel-noisyimg.png : 209
+Execution time of median filter for median-plane-noisy.png : 356
+Execution time of parallel filter for parallel-plane-noisy.png : 299
+Execution time of median filter for median-train_noisy.jpeg : 438
+Execution time of parallel filter for parallel-train_noisy.jpeg : 335
+Execution time of median filter for median-balloons_noisy.png : 189
+Execution time of parallel filter for parallel-balloons_noisy.png : 138
